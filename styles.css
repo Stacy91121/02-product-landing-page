@@ -18,7 +18,7 @@ body {
 }
 
 .hero img {
-  width: 250px; /* larger image */
+  width: 225px; /* larger image */
   border-radius: 50%;
   border: solid 4px #16213e;
   margin-bottom: 20px;
@@ -27,7 +27,7 @@ body {
 .hero h1 {
   margin: 20px 0 10px;
   color: #16213e;
-  font-size: 4em; /* much larger heading */
+  font-size: 3em; /* much larger heading */
 }
 
 .hero p {
@@ -42,7 +42,7 @@ body {
   border: none;
   border-radius: 10px;
   cursor: pointer;
-  font-size: 1.5em; /* much larger button text */
+  font-size: 1em; /* much larger button text */
   padding: 24px 48px; /* larger button size */
 }
 
